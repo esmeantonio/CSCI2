@@ -2,4 +2,4 @@
 
 CSCI 2: Introduction To Data Structures
 
-Course assignments in C++
+Labs and HW in C++
