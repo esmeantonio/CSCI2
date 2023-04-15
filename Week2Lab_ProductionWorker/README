@@ -1,0 +1,3 @@
+Create a ProductionWorker class that inherits from an Employee class. The Employee class 
+should obtain the employee's name, number, and hire date from the user. The 
+ProductionWorker class should obtain the shift and hourly pay rate from the user.
